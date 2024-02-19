@@ -1,0 +1,3 @@
+Šodien arā ir labs laiks.
+Šodien arā nav labs laiks.
+Ritdien arā būs labs laiks.
